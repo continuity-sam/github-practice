@@ -1,4 +1,4 @@
 # github-practice
 meaningfull
 
-meaninglessly
+conflicts resolved
